@@ -1,8 +1,8 @@
 {
   "jsc": {
     "parser": {
-      "syntax": "ecmascript",
-      "jsx": true,
+      "syntax": "typescript",
+      "tsx": true,
       "numericSeparator": false,
       "classPrivateProperty": false,
       "privateMethod": false,
